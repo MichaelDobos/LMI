@@ -1,7 +1,7 @@
 % Interval Quadratic Stability
 % Example: Pitch Channel Model from Chpt. 11 Duan, Yu
 
-tz=1; % given variables
+tz=1; % given variable
 
 a1=[1.593 .398]; % interval uncertanties given Table 11.2
 ap1=.2;
