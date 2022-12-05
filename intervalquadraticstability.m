@@ -4,8 +4,7 @@
 tz=1; % given variable
 
 a1=[1.593 .398]; % interval uncertanties given Table 11.2
-ap1=.2;
-%ap1=[.285 .043];
+ap1=[.285 .043];
 a2=[260.559 51.003];
 a3=[185.488 53.84];
 a4=[1.506 .421];
